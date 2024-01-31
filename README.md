@@ -1,6 +1,6 @@
-- 👋 Omkar khade
-- 👀 interested in management
-- 🌱 learning computer engineering
+- 👋 OMKAR KHADE
+- 👀 interested in SOFTWARE TESTING
+- 🌱 COMPLETED BACHELORS IN COMPUTR ENGINEERING
 - 💞️ I’m looking to collaborate on startup
 - 📫 Reach me omkarckhade@gmail.com
 
